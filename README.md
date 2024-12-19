@@ -1,5 +1,5 @@
 # Fala pessoal, me chamo Marcos!  
-<p align="center">__Estudante de Desenvolvimento Web buscando usar a criatividade para encarar os problemas de forma criativa e inovadora.__</p>
+<p align="center">Estudante de Desenvolvimento Web buscando usar a criatividade para encarar os problemas de forma criativa e inovadora.**bold**</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eosocram) 
 
