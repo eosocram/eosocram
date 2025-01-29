@@ -1,7 +1,7 @@
-# Fala pessoal, me chamo Marcos!  
-**`Sou estudante em Análise e Desenvolvimento de Sistemas, focado em Aplicações Web. Busco usar a minha criatividade para solucionar os problemas de forma criativa e inovadora.`**
+# Hi there 👋, I'm Marcos!  
+**`I am a student in Systems Analysis and Development, focused on Web Applications. I seek to use my creativity to solve problems in a creative and innovative way.`**
 
-# 💻 Linguagens e Tecnologias:
+# 💻 Languages and Tools:
 
 <img
 align="left"
