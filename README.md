@@ -14,6 +14,16 @@ width=30px
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
+
+<img 
+align="left"
+alt="C#"
+title="C#"
+width=30px
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+          
+          
 <img
 align="left"
 alt="Git"
@@ -48,11 +58,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
            
 <img
 align="left"
-alt="Postgree"
-title="Poatgree"
+alt="sql"
+title="sql"
 width=30px
 style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
 
 
 # <br/>
