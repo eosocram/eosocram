@@ -64,11 +64,3 @@ width=30px
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
-
-
-# <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eosocram&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=eosocram&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
